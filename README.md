@@ -9,5 +9,5 @@
 </p>
 <p align="center">
  <br>Visitor count<br>
-    <img src="https://profile-counter.glitch.me/greenizim/count.svg" />
+    <img src="https://profile-counter.glitch.me/Greenizim/count.svg" />
     </p>
