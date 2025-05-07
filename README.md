@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=greenizim&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/greenizim/greenizim/assets/masonic-animation.gif" alt="The All-Seeing Eye" />
 </p>
 
 <p align="center">
