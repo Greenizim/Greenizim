@@ -1,6 +1,6 @@
 <p align="center" style= " color : 35ad23; font-weight: bold;" >
-    GitHub Streak <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Greenizim&theme=hacker" />
+    <br>GitHub Streak<br>
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Greenizim&theme=hacker](https://github-readme-streak-stats.herokuapp.com/?user=Greenizim&theme=hacker)" />
 
 </p>
 <p align="center">
